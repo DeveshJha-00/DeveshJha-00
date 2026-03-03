@@ -1,5 +1,5 @@
 # 💫 Who Am I :
-A student focused on building robust, scalable software systems. using new technologies.<br> Emphasizing clean architecture, structured problem-solving, and performance-conscious design to create solutions that are maintainable.<br><br>I’ve worked on developing and refining full stack applications, gaining hands-on experience across different stages of the development lifecycle, working with analytical thinking, iterative improvement, and a commitment to writing reliable, well-structured systems.<br><br>Sharpening skills, expanding perspective 🌐
+A student focused on building robust, scalable software systems. using new technologies.<br> Emphasizing clean architecture, structured problem-solving, and performance-conscious design to create solutions that are maintainable.<br><br>I’ve worked on developing and refining full stack applications, gaining hands-on experience across different stages of the development lifecycle, working with analytical thinking, iterative improvement, and a commitment to writing reliable, well-structured systems.<br><br>Sharpening skills, expanding perspective 📈
 
 
 ## 🌐 Socials:
